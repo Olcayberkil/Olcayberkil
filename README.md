@@ -8,7 +8,7 @@
 - 🌱 I’m learning **JavaScript, React, CSS animations**  
 - 🎯 Goal: Build creative, user-friendly applications  
 - 💬 Ask me about **HTML, CSS, JavaScript, game development**  
-- 📫 How to reach me: **olcay@example.com**  
+- 📫 How to reach me: **olcaberkil0@gmail.com**  
 
 ---
 
